@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "672112100648",
+    "project_id": "citizenship-academy-demo",
+    "storage_bucket": "citizenship-academy-demo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672112100648:android:75d6114813067010b53c1d",
+        "android_client_info": {
+          "package_name": "com.example.citizenship_academy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKO8MzZSXDI74VPG-ILlhPe0PVWpjZg5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
